@@ -39,3 +39,5 @@
 /Users/tyler/Projects/Tutorials/Commander/obj/Debug/netcoreapp3.1/Commander.dll
 /Users/tyler/Projects/Tutorials/Commander/obj/Debug/netcoreapp3.1/Commander.pdb
 /Users/tyler/Projects/Tutorials/Commander/obj/Debug/netcoreapp3.1/Commander.genruntimeconfig.cache
+/Users/tyler/Projects/Tutorials/Commander/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/tyler/Projects/Tutorials/Commander/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
